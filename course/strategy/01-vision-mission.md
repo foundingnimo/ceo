@@ -10,7 +10,7 @@ As a CEO, your first job isn't to tell people *what* to do, but *why* they are d
 Most companies can tell you *what* they do (we sell software) and *how* they do it (we have a proprietary algorithm). Very few can clearly articulate **why** they do it.
 
 ### 📺 Watch This (18 mins)
-[Simon Sinek: How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+[Simon Sinek: How Great Leaders Inspire Action](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 *Focus on the "Golden Circle" concept: Why, How, What.*
 
 ## Part 2: Vision vs. Mission
