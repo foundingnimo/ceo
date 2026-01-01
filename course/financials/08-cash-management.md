@@ -23,8 +23,9 @@ Net Burn Rate: $100,000/month
 Runway: 20 months
 ```
 
-### 📺 Watch This (20 mins)
-[Cash Flow Management for Startups](https://www.youtube.com/watch?v=2eODNxyUTds)
+### 📖 Read This (10 mins)
+[Burn Rate and Runway Explained - Wall Street Prep](https://www.wallstreetprep.com/knowledge/cash-runway/)  
+*Practical cash management for founder-CEOs.*
 
 ## Part 2: Accelerating Cash Inflows
 

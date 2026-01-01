@@ -21,8 +21,8 @@ Every B2B sale moves through predictable stages. Define yours clearly:
 
 **The key:** Each stage must have *clear exit criteria*. Loose definitions = garbage pipeline data.
 
-### 📺 Watch This (14 mins)
-[SaaStr: The Sales Stages That Actually Work](https://www.youtube.com/watch?v=tO3MQFT4Lqo)
+### 📖 Read This (14 mins)
+[Sales Process Framework - Predictable Revenue](https://predictablerevenue.com/)  
 *Learn how to build stages that predict revenue.*
 
 ## Part 2: The Qualification Framework

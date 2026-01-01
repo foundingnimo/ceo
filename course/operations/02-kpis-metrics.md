@@ -27,8 +27,8 @@ Signs of poor visibility:
 - Teams reporting "green" while customers are complaining
 - You only learn about problems when they become crises
 
-### 📺 Watch This (12 mins)
-[What are KPIs? Key Performance Indicators Explained](https://www.youtube.com/watch?v=gMpnWEq4FjQ)
+### 📖 Read This (10 mins)
+[KPI Examples by Industry - Klipfolio](https://www.klipfolio.com/resources/kpi-examples)  
 *Good primer on selecting meaningful KPIs vs. vanity metrics.*
 
 ## Part 3: Building Your CEO Dashboard

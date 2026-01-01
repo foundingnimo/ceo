@@ -89,8 +89,8 @@ When times are hard (and they will be), purpose provides:
 
 Without purpose, these periods lead to burnout or quitting.
 
-### 📺 Watch This (8 mins)
-[Simon Sinek: Find Your Why](https://www.youtube.com/watch?v=qLncy2qEUgw)
+### 📺 Watch This (18 mins)
+[How Great Leaders Inspire Action - Simon Sinek TED](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)  
 *How to articulate the purpose behind your work.*
 
 ## Part 4: Authenticity vs. Oversharing

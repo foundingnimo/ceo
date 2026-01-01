@@ -18,9 +18,9 @@ These three numbers determine if your business can scale:
 
 **Why this matters:** LTV:CAC < 3 means you're burning money to acquire customers. Investors and your balance sheet will notice.
 
-### 📺 Watch This (11 mins)
-[David Skok: SaaS Metrics 2.0](https://www.youtube.com/watch?v=QL90dxDrnOU)
-*The foundational video on understanding SaaS economics.*
+### 📖 Read This (20 mins)
+[SaaS Metrics 2.0 - David Skok](http://www.forentrepreneurs.com/saas-metrics-2/)  
+*Understanding CAC, LTV, and the economics of SaaS.*
 
 ## Part 2: The Payback Period
 

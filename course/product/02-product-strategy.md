@@ -8,7 +8,7 @@ Most CEOs treat their product roadmap like a grocery list of features requested 
 If your team is only focused on "What are we building next?", you are in a **Feature Factory.** You are shipping code, but are you shipping value?
 
 ### 📺 Watch This (12 mins)
-[Marty Cagan on Product Strategy](https://www.youtube.com/watch?v=J3-O_qit_kI)
+[Marty Cagan on Product Strategy](https://www.youtube.com/watch?v=x4H_gluZI10)
 *Listen for the definition of product strategy: A set of choices that positions the company to win in the market.*
 
 ## Part 2: The "Whole Product" Concept

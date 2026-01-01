@@ -9,8 +9,8 @@ Compensation is how you communicate what you value. In a startup, your "unfair a
 - **Total Rewards**: It's not just salary + equity. It's the mission, the autonomy, and the growth opportunities.
 
 ## Curated Resources
-- **[Watch] [YC: Understanding Startup Equity](https://www.youtube.com/watch?v=PL6pzxJwSkg)** (18 mins) - The basics of options, vesting, and tax.
-- **[Watch] [Selling Equity to Candidates](https://www.youtube.com/watch?v=D2H9PzBT_GY)** (10 mins) - Strategies for selling the upside.
+- **[Read] [Equity 101 for Startup Employees - Holloway Guide](https://www.holloway.com/g/equity-compensation)** (18 mins) - ISOs, NSOs, vesting, and tax basics.
+- **[Read] [Stock Options Explained - Carta](https://carta.com/blog/equity-101-stock-option-basics/)** (10 mins) - Selling the equity story effectively.
 - **[Tool] [Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)** (Reference) - The comprehensive "Bible" of equity.
 
 ## CEO Action Item

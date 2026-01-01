@@ -8,9 +8,9 @@ Most CEOs think strategy is about beating the competition. It isn't. Strategy is
 - **Red Oceans:** Existing market space where boundaries are defined. Competition is fierce, turning products into commodities. It's a "bloody" fight for market share.
 - **Blue Oceans:** Uncontested market space. You create a new demand by offering a unique value proposition that doesn't exist yet.
 
-### 📽️ Watch This (10 mins)
-[Blue Ocean Strategy Explained](https://www.youtube.com/watch?v=sYd6gRPC5XE)
-*Official Blue Ocean Strategy channel. Focus on "Value Innovation"—pursuing differentiation and low cost.*
+### 📖 Read This (12 mins)
+[Blue Ocean Strategy Overview - Blue Ocean Strategy Institute](https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/)  
+*Official Blue Ocean Strategy channel. Focus on \"Value Innovation.\"*
 
 ## Part 2: The Four Actions Framework
 To find your Blue Ocean, you must ask four questions about your current industry's standards:

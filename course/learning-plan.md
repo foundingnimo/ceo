@@ -20,14 +20,14 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 | Day | Course | Episode | Time |
 | :--- | :--- | :--- | :--- |
-| Week 1 | Leadership | [01 - Time & Prioritization](course/leadership/01-time-prioritization.md) | 25 min |
-| Week 1 | Strategy | [01 - Vision & Mission](course/strategy/01-vision-mission.md) | 20 min |
-| Week 2 | Financials | [01 - Foundations](course/financials/01-foundations.md) | 15 min |
-| Week 2 | Financials | [03 - Revenue vs Cash](course/financials/03-revenue-vs-cash.md) | 20 min |
-| Week 3 | Culture | [01 - Values & Vision](course/culture/01-values-vision.md) | 25 min |
-| Week 3 | HR & Talent | [01 - Why HR Matters](course/hr-talent/01-why-hr-matters.md) | 20 min |
-| Week 4 | Tech Literacy | [01 - Tech Landscape](course/tech-literacy/01-tech-landscape.md) | 30 min |
-| Week 4 | Leadership | [03 - Emotional Intelligence](course/leadership/03-emotional-intelligence.md) | 25 min |
+| Week 1 | Leadership | [01 - Time & Prioritization](./leadership/01-time-prioritization.md) | 25 min |
+| Week 1 | Strategy | [01 - Vision & Mission](./strategy/01-vision-mission.md) | 20 min |
+| Week 2 | Financials | [01 - Foundations](./financials/01-foundations.md) | 15 min |
+| Week 2 | Financials | [03 - Revenue vs Cash](./financials/03-revenue-vs-cash.md) | 20 min |
+| Week 3 | Culture | [01 - Values & Vision](./culture/01-values-vision.md) | 25 min |
+| Week 3 | HR & Talent | [01 - Why HR Matters](./hr-talent/01-why-hr-matters.md) | 20 min |
+| Week 4 | Tech Literacy | [01 - Tech Landscape](./tech-literacy/01-tech-landscape.md) | 30 min |
+| Week 4 | Leadership | [03 - Emotional Intelligence](./leadership/03-emotional-intelligence.md) | 25 min |
 
 **After Wave 1, you should be able to:**
 - Articulate your company's vision and mission clearly
@@ -44,14 +44,14 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 | Day | Course | Episode | Time |
 | :--- | :--- | :--- | :--- |
-| Week 5 | Strategy | [02 - SWOT Analysis](course/strategy/02-swot.md) | 20 min |
-| Week 5 | Strategy | [03 - Porter's Five Forces](course/strategy/03-forces.md) | 25 min |
-| Week 6 | Financials | [04 - Statements Intro](course/financials/04-statements-intro.md) | 20 min |
-| Week 6 | Financials | [05 - Income Statement](course/financials/05-income-statement.md) | 25 min |
-| Week 7 | Product | [02 - Product Strategy](course/product/02-product-strategy.md) | 20 min |
-| Week 7 | Product | [03 - Customer Empathy](course/product/03-customer-empathy.md) | 20 min |
-| Week 8 | Operations | [01 - Lean Thinking](course/operations/01-lean-thinking.md) | 25 min |
-| Week 8 | Operations | [02 - KPIs & Metrics](course/operations/02-kpis-metrics.md) | 25 min |
+| Week 5 | Strategy | [02 - SWOT Analysis](./strategy/02-swot.md) | 20 min |
+| Week 5 | Strategy | [03 - Porter's Five Forces](./strategy/03-forces.md) | 25 min |
+| Week 6 | Financials | [04 - Statements Intro](./financials/04-statements-intro.md) | 20 min |
+| Week 6 | Financials | [05 - Income Statement](./financials/05-income-statement.md) | 25 min |
+| Week 7 | Product | [02 - Product Strategy](./product/02-product-strategy.md) | 20 min |
+| Week 7 | Product | [03 - Customer Empathy](./product/03-customer-empathy.md) | 20 min |
+| Week 8 | Operations | [01 - Lean Thinking](./operations/01-lean-thinking.md) | 25 min |
+| Week 8 | Operations | [02 - KPIs & Metrics](./operations/02-kpis-metrics.md) | 25 min |
 
 **After Wave 2, you should be able to:**
 - Conduct a SWOT and competitive analysis
@@ -68,14 +68,14 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 | Day | Course | Episode | Time |
 | :--- | :--- | :--- | :--- |
-| Week 9 | Board | [01 - Board Fundamentals](course/board/01-board-fundamentals.md) | 25 min |
-| Week 9 | Board | [02 - Transparency & Trust](course/board/02-transparency-trust.md) | 20 min |
-| Week 10 | Board | [03 - Board Meetings](course/board/03-board-meetings.md) | 30 min |
-| Week 10 | Financials | [14 - Investor Relations](course/financials/14-investor-relations.md) | 20 min |
-| Week 11 | Board | [04 - Investor Communication](course/board/04-investor-communication.md) | 25 min |
-| Week 11 | Culture | [02 - Psychological Safety](course/culture/02-psychological-safety.md) | 25 min |
-| Week 12 | HR & Talent | [06 - Performance Culture](course/hr-talent/06-performance-culture.md) | 20 min |
-| Week 12 | Leadership | [02 - Decision-Making](course/leadership/02-decision-making.md) | 30 min |
+| Week 9 | Board | [01 - Board Fundamentals](./board/01-board-fundamentals.md) | 25 min |
+| Week 9 | Board | [02 - Transparency & Trust](./board/02-transparency-trust.md) | 20 min |
+| Week 10 | Board | [03 - Board Meetings](./board/03-board-meetings.md) | 30 min |
+| Week 10 | Financials | [14 - Investor Relations](./financials/14-investor-relations.md) | 20 min |
+| Week 11 | Board | [04 - Investor Communication](./board/04-investor-communication.md) | 25 min |
+| Week 11 | Culture | [02 - Psychological Safety](./culture/02-psychological-safety.md) | 25 min |
+| Week 12 | HR & Talent | [06 - Performance Culture](./hr-talent/06-performance-culture.md) | 20 min |
+| Week 12 | Leadership | [02 - Decision-Making](./leadership/02-decision-making.md) | 30 min |
 
 **After Wave 3, you should be able to:**
 - Run effective board meetings
@@ -92,14 +92,14 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 | Day | Course | Episode | Time |
 | :--- | :--- | :--- | :--- |
-| Week 13 | Sales | [01 - ICP & Targeting](course/sales-gtm/01-icp-targeting.md) | 20 min |
-| Week 13 | Sales | [03 - GTM Motions](course/sales-gtm/03-gtm-motions.md) | 25 min |
-| Week 14 | Financials | [11 - Unit Economics](course/financials/11-unit-economics.md) | 25 min |
-| Week 14 | Financials | [08 - Cash Management](course/financials/08-cash-management.md) | 25 min |
-| Week 15 | HR & Talent | [04 - Recruiting](course/hr-talent/04-recruiting-art-science.md) | 20 min |
-| Week 15 | HR & Talent | [05 - Onboarding](course/hr-talent/05-onboarding-excellence.md) | 20 min |
-| Week 16 | Operations | [05 - Strategic Alignment](course/operations/05-strategic-alignment.md) | 25 min |
-| Week 16 | Strategy | [06 - OKRs](course/strategy/06-okrs.md) | 20 min |
+| Week 13 | Sales | [01 - ICP & Targeting](./sales-gtm/01-icp-targeting.md) | 20 min |
+| Week 13 | Sales | [03 - GTM Motions](./sales-gtm/03-gtm-motions.md) | 25 min |
+| Week 14 | Financials | [11 - Unit Economics](./financials/11-unit-economics.md) | 25 min |
+| Week 14 | Financials | [08 - Cash Management](./financials/08-cash-management.md) | 25 min |
+| Week 15 | HR & Talent | [04 - Recruiting](./hr-talent/04-recruiting-art-science.md) | 20 min |
+| Week 15 | HR & Talent | [05 - Onboarding](./hr-talent/05-onboarding-excellence.md) | 20 min |
+| Week 16 | Operations | [05 - Strategic Alignment](./operations/05-strategic-alignment.md) | 25 min |
+| Week 16 | Strategy | [06 - OKRs](./strategy/06-okrs.md) | 20 min |
 
 **After Wave 4, you should be able to:**
 - Define your ICP and choose the right GTM motion
@@ -116,14 +116,14 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 | Day | Course | Episode | Time |
 | :--- | :--- | :--- | :--- |
-| Week 17 | Tech Literacy | [05 - Cybersecurity](course/tech-literacy/05-cybersecurity.md) | 25 min |
-| Week 17 | Tech Literacy | [06 - AI & Data](course/tech-literacy/06-ai-data.md) | 30 min |
-| Week 18 | Financials | [15 - Strategic Decisions](course/financials/15-strategic-decisions.md) | 30 min |
-| Week 18 | Board | [05 - Leveraging Your Board](course/board/05-leveraging-board.md) | 20 min |
-| Week 19 | Sales | [05 - Metrics](course/sales-gtm/05-metrics.md) | 25 min |
-| Week 19 | Product | [05 - Data & AI](course/product/05-data-ai.md) | 20 min |
-| Week 20 | Leadership | [04 - Resilience](course/leadership/04-resilience.md) | 25 min |
-| Week 20 | Leadership | [06 - Authenticity & Purpose](course/leadership/06-authenticity-purpose.md) | 25 min |
+| Week 17 | Tech Literacy | [05 - Cybersecurity](./tech-literacy/05-cybersecurity.md) | 25 min |
+| Week 17 | Tech Literacy | [06 - AI & Data](./tech-literacy/06-ai-data.md) | 30 min |
+| Week 18 | Financials | [15 - Strategic Decisions](./financials/15-strategic-decisions.md) | 30 min |
+| Week 18 | Board | [05 - Leveraging Your Board](./board/05-leveraging-board.md) | 20 min |
+| Week 19 | Sales | [05 - Metrics](./sales-gtm/05-metrics.md) | 25 min |
+| Week 19 | Product | [05 - Data & AI](./product/05-data-ai.md) | 20 min |
+| Week 20 | Leadership | [04 - Resilience](./leadership/04-resilience.md) | 25 min |
+| Week 20 | Leadership | [06 - Authenticity & Purpose](./leadership/06-authenticity-purpose.md) | 25 min |
 
 **After Wave 5, you should be able to:**
 - Assess your company's security posture
@@ -140,13 +140,13 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 | Day | Course | Episode | Time |
 | :--- | :--- | :--- | :--- |
-| Week 21 | Board | [06 - Crisis Communication](course/board/06-crisis-communication.md) | 25 min |
-| Week 21 | Culture | [06 - Tech Culture Challenges](course/culture/06-tech-culture.md) | 30 min |
-| Week 22 | Financials | [09 - Budgeting](course/financials/09-budgeting.md) | 25 min |
-| Week 22 | Financials | [10 - Forecasting](course/financials/10-forecasting.md) | 25 min |
-| Week 23 | Tech Literacy | [03 - Tech Investments](course/tech-literacy/03-tech-investments.md) | 25 min |
-| Week 23 | Operations | [07 - Synthesis](course/operations/07-synthesis.md) | 30 min |
-| Week 24 | Leadership | [05 - Continuous Learning](course/leadership/05-continuous-learning.md) | 20 min |
+| Week 21 | Board | [06 - Crisis Communication](./board/06-crisis-communication.md) | 25 min |
+| Week 21 | Culture | [06 - Tech Culture Challenges](./culture/06-tech-culture.md) | 30 min |
+| Week 22 | Financials | [09 - Budgeting](./financials/09-budgeting.md) | 25 min |
+| Week 22 | Financials | [10 - Forecasting](./financials/10-forecasting.md) | 25 min |
+| Week 23 | Tech Literacy | [03 - Tech Investments](./tech-literacy/03-tech-investments.md) | 25 min |
+| Week 23 | Operations | [07 - Synthesis](./operations/07-synthesis.md) | 30 min |
+| Week 24 | Leadership | [05 - Continuous Learning](./leadership/05-continuous-learning.md) | 20 min |
 
 **After Wave 6, you should be able to:**
 - Handle crises with stakeholder confidence

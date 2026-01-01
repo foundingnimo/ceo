@@ -12,8 +12,9 @@ The cash flow statement reconciles the difference between:
 - What the income statement says (profit/loss)
 - What actually happened in your bank account (cash change)
 
-### 📺 Watch This (22 mins)
-[Cash Flow Statement Explained](https://www.youtube.com/watch?v=chhvgQLdbvs)
+### 📺 Watch This (18 mins)
+[Cash Flow Statement Tutorial - The Plain Bagel](https://www.youtube.com/watch?v=DiVPAjgmnj0)  
+*How to build and read a cash flow statement using the indirect method.*
 
 ## Part 2: Three Sections of Cash Flow
 

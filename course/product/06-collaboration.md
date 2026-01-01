@@ -13,8 +13,13 @@ In many companies, teams are measured by outputs:
 This creates silos. Instead, the CEO must force **Shared Outcomes.** If the goal is "Increase Retention by 10%," all three teams must work together to achieve it.
 
 ### 📺 Watch This (10 mins)
-[Breaking Silos: Product vs. Engineering vs. Sales](https://www.youtube.com/watch?v=nE7qX5g8VlQ)
-*Understand how to align different functional goals under a single strategic objective.*
+- [Satya Nadella is building the future - TED Podcast with Adam Grant](https://www.ted.com/podcasts/satya-nadella-is-building-the-future-transcript)
+- [Satya Nadella on Microsoft's AI Strategy, Leadership Culture, and the Future of Computing - Madrona](https://www.madrona.com/satya-nadella-microsfot-ai-strategy-leadership-culture-computing/)
+- [Satya Nadella at Microsoft: Instilling a Growth Mindset - London Business School](https://publishing.london.edu/cases/satya-nadella-at-microsoft-instilling-a-growth-mindset/)
+- [Microsoft's Transformation Under Satya Nadella - Agile Federation](https://www.agilefederation.com/post/microsoft-s-transformation-under-satya-nadella-a-story-of-structure-power-and-renewal)
+- [Cross-Functional Team Alignment: Product, Sales & Engineering - Xenoss](https://xenoss.io/blog/cross-functional-alignment-engineering-sales-and-product-teams)
+- [3 ways product managers can promote cross-team alignment - Fullstory](https://www.fullstory.com/blog/product-management-cross-functional-alignment/)
+- [Trying to Break Your Organizational Silos? - Entrepreneur](https://www.entrepreneur.com/leadership/trying-to-break-your-organizational-silos-start-here/497251)
 
 ## Part 2: The CEO’s Alignment Dashboard
 You shouldn't be in every meeting, but you should know three things:

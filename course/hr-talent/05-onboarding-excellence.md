@@ -10,7 +10,7 @@ Onboarding doesn't end on Day 1. It is a 90-day process that determines whether 
 
 ## Curated Resources
 - **[Read] [The Executive Onboarding Guide](https://firstround.com/review/how-to-onboard-executives-so-they-actually-succeed/)** (15 mins) - Why executive onboarding is different.
-- **[Watch] [The First 90 Days: Executive Onboarding](https://www.youtube.com/watch?v=0OQcvx4hJBo)** (12 mins) - Strategies for integrating senior leaders.
+- **[Read] [The First 90 Days - Michael Watkins](https://hbr.org/books/watkins)** (12 mins) - Executive onboarding best practices.
 - **[Checklist] [The 30-60-90 Day Plan](https://hbr.org/2019/05/your-new-manager-onboarding-checklist)** (10 mins).
 
 ## CEO Action Item

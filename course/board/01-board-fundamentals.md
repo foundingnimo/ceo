@@ -16,8 +16,8 @@ For venture-backed startups, the board serves additional purposes:
 - **Network access** — Introductions to customers, talent, and future investors
 - **Crisis support** — Steady hands when things get tough
 
-### 📺 Watch This (12 mins)
-[a16z: Building Your Board — Early Stage Advice](https://www.youtube.com/watch?v=9YB7g32xJQs)
+### 📖 Read This (12 mins)
+[How to Build Your Board - First Round Review](https://review.firstround.com/)  
 *Focus on: What boards actually do vs. what founders expect.*
 
 ## Part 2: Types of Board Members

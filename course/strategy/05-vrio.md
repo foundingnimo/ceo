@@ -12,9 +12,9 @@ VRIO is an internal analysis tool used to evaluate a company's resources and cap
 3. **Inimitable (I):** Is it expensive or difficult for others to copy? (Intellectual property, unique brand culture, network effects).
 4. **Organized (O):** Is your company organized to capture the value of this resource?
 
-### 📽️ Watch This (8 mins)
-[Internal Analysis: The VRIO Framework](https://www.youtube.com/watch?v=OnjpZP7a8FE)
-*From A Business Professor. Understand the hierarchy from "Competitive Parity" to "Sustainable Advantage."*
+### 📖 Read This (10 mins)
+[VRIO Analysis Guide - Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/management/vrio-framework/)  
+*Understand the hierarchy from \"Competitive Parity\" to \"Sustainable Advantage.\"*
 
 ## Part 2: The CEO’s Role in "O"
 Most fail at the "O." You might have a genius engineer (V, R, I), but if you don't have the management systems or culture to let them flourish, you aren't **Organized** to capture that value. That is a pure CEO responsibility.

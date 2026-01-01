@@ -10,7 +10,7 @@ Your employer brand is not your marketing brand. It is the answer to the questio
 
 ## Curated Resources
 - **[Read] [Building an Authentic Employer Brand](https://www.quicklyhire.com/employer-branding-for-startups/)** (10 mins) - How to compete with big tech budgets.
-- **[Watch] [How to Hire Great People (YC)](https://www.youtube.com/watch?v=I-bD6k2_jqQ)** (15 mins) - YC advice on how founders can attract top talent.
+- **[Watch] [How to Hire - Y Combinator Startup School](https://www.ycombinator.com/library)** (15 mins) - Startup hiring fundamentals from YC partners.
 - **[Example] [Stripe: The Operating Manual](https://stripe.com/jobs/how-we-work)** (10 mins) - A great example of a clear, authentic employer brand.
 
 ## CEO Action Item

@@ -32,7 +32,7 @@ Every software product has layers. Understanding these layers helps you ask bett
 ```
 
 ### 📺 Watch This (10 mins)
-[Fireship: 100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+[Fireship: 100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
 *Don't try to memorize everything—just get familiar with the vocabulary.*
 
 ## Part 2: Cloud Computing Fundamentals
@@ -82,7 +82,7 @@ Use these in your next engineering review:
 5. **Security**: "When was our last security audit? What were the findings?"
 
 ### 📺 Watch This (12 mins)
-[ThePrimeagen: What Every CEO Should Know About Software](https://www.youtube.com/watch?v=cISi8uzBmG4)
+[Jeff Lawson: Building Software with Superpowers](https://www.youtube.com/watch?v=6OEmqCJ2wJk)
 *A developer's perspective on what non-technical leaders get wrong.*
 
 ## CEO Action Item: Map Your Tech Stack

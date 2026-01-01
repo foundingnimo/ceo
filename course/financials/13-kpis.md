@@ -14,8 +14,9 @@ KPIs are the vital signs of your business. As CEO, you need to track the right m
 | **ARR** | MRR × 12 | Stage-dependent |
 | **Customer Growth Rate** | (New - Lost) / Start | Positive trend |
 
-### 📺 Watch This (28 mins)
-[SaaS Metrics That Matter](https://www.youtube.com/watch?v=VZ0h85rS-Xk)
+### 📖 Read This (25 mins)
+[SaaS Metrics That Matter - David Skok](http://www.forentrepreneurs.com/saas-metrics-2/)  
+*The definitive guide to SaaS metrics from Matrix Partners GP.*
 
 ## Part 2: Efficiency Metrics
 

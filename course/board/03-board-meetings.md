@@ -29,8 +29,8 @@ The board deck should be sent **at least 3 business days** before the meeting. I
 
 **Format tip:** Keep the main deck to 15-20 slides. Put deep dives in the appendix.
 
-### 📺 Watch This (15 mins)
-[NFX: How to Run Your Board Meeting](https://www.youtube.com/watch?v=Bk5pJxhHfGc)
+### 📖 Read This (15 mins)
+[Running Effective Board Meetings - SaaStr](https://www.saastr.com/)  
 *Focus on: The structure that maximizes strategic value.*
 
 ## Part 2: Meeting Structure — Updates vs. Decisions

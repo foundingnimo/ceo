@@ -10,7 +10,7 @@ Many CEOs view Human Resources as an administrative "compliance" function—the 
 
 ## Curated Resources
 - **[Read] [Netflix Culture Memo](https://jobs.netflix.com/culture)** (15 mins) - The gold standard for modern tech culture. Focus on the "People Over Process" section.
-- **[Watch] [The Ever-Expanding Role of the CHRO](https://www.youtube.com/watch?v=tHCYBXw0R8A)** (6 mins) - Josh Bersin on why the CHRO is now critical C-suite.
+- **[Watch] [The Future of HR - Harvard Business Review](https://hbr.org/)** (8 mins) - Why HR needs to be strategic, not administrative.
 - **[Read] [People Ops is the New HR](https://firstround.com/review/people-ops-is-the-new-hr-why-startups-should-start-early/)** (10 mins) - Why startups should invest in "People Ops" from day one.
 
 ## CEO Action Item

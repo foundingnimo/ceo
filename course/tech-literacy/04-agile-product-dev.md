@@ -32,7 +32,7 @@ In Agile, you ship small increments continuously, learning as you go:
 **The benefit:** You course-correct continuously instead of betting everything on one big release.
 
 ### 📺 Watch This (8 mins)
-[Atlassian: Agile Explained](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
+[Mark Snead: What is Agile](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
 *A clear, visual explanation of Agile principles.*
 
 ## Part 2: Scrum Basics
@@ -120,7 +120,8 @@ Some of the most important engineering work doesn't produce visible features:
 - **Don't let it be the first thing cut** — When deadlines loom, this work suffers
 
 ### 📺 Watch This (10 mins)
-[Continuous Delivery: Why Quality Matters](https://www.youtube.com/watch?v=4OI22dOB-7Q)
+[Continuous Delivery Explained PERFECTLY In 15 Minutes](https://www.youtube.com/watch?v=tQMrrNo16jo)
+[Continuous Delivery: business value](https://www.youtube.com/watch?v=uUdeEi8d2tk)
 *Why investing in quality pays off.*
 
 ## Part 5: Beyond Scrum

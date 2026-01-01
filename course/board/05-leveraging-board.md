@@ -24,8 +24,8 @@ Board members, especially experienced VCs and operators, offer three types of va
 | "Board meetings are for reporting" | "Board meetings are for problem-solving" |
 | "Don't bother them between meetings" | "Engage them proactively on key issues" |
 
-### 📺 Watch This (10 mins)
-[a16z: How to Work With Your Board](https://www.youtube.com/watch?v=gS946j8LvF0)
+### 📖 Read This (10 mins)
+[Maximizing Board Value - Brad Feld](https://feld.com/)  
 *Focus on: How successful CEOs leverage board relationships.*
 
 ## Part 2: The Art of the Ask

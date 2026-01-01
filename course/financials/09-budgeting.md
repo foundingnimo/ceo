@@ -14,8 +14,9 @@ A budget is a financial plan that:
 - **Sets expectations** for performance
 - **Provides benchmarks** for measuring results
 
-### 📺 Watch This (25 mins)
-[Budgeting Basics for Business](https://www.youtube.com/watch?v=KSPi_lQp01Y)
+### 📖 Read This (15 mins)
+[Startup Financial Planning - Y Combinator Library](https://www.ycombinator.com/library)  
+*Why startup budgets need to be rolling and aligned to strategy.*
 
 ## Part 2: Types of Budgets
 

@@ -131,8 +131,8 @@ AI introduces ethical and legal considerations CEOs must understand:
 | **Accountability** | When AI makes a mistake, who's responsible? | Establish clear ownership and oversight |
 | **Job displacement** | AI may change workforce needs | Plan for reskilling and transition |
 
-### 📺 Watch This (10 mins)
-[Google: Responsible AI Principles](https://www.youtube.com/watch?v=bvHInZvYt-c)
+### 📖 Read This (12 mins)
+[AI Ethics Guidelines - Google AI Principles](https://ai.google/responsibility/principles/)  
 *How a major AI company thinks about responsible development.*
 
 ## Part 6: Starting Your AI Journey

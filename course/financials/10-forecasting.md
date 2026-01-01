@@ -13,8 +13,9 @@ A budget is a plan. A forecast is a prediction of what will actually happen base
 | **Flexibility** | Fixed for period | Adjusted on actuals |
 | **Focus** | What we want | What we expect |
 
-### 📺 Watch This (30 mins)
-[Financial Modeling for Startups](https://www.youtube.com/watch?v=l3v5DMsGDqs)
+### 📖 Read This (15 mins)
+[Financial Modeling for Startups - Wall Street Prep](https://www.wallstreetprep.com/)  
+*Driver-based forecasting: why revenue should be an effect, not an input.*
 
 ## Part 2: The Rolling Forecast
 

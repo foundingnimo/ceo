@@ -15,7 +15,10 @@ There is no universal "best" way to sell. Your GTM motion must match your produc
 | **Hybrid** | PLG for entry, sales for expansion | Mid-market, land-and-expand | PQL → SQL conversion |
 
 ### 📺 Watch This (18 mins)
-[a]16z: The Product-Led Growth Playbook](https://www.youtube.com/watch?v=XxWkR38VHXU)
+- [Growth, Sales, and a New Era of B2B - Martin Casado (a16z)](https://a16z.com/growth-sales-and-a-new-era-of-b2b/)
+- [The Research Mentality and How to Adopt It for Product-Led Growth (a16z)](https://a16z.com/the-research-mentality-and-how-to-adopt-it-for-product-led-growth/)
+- [Everything You Need to Know About Product-Led Growth - Wes Bush](https://www.news.aakashg.com/p/everything-you-need-to-know-about-bae)
+- [Elena Verna on Product-Led Growth - Lenny's Podcast](https://www.lennyspodcast.com/elena-verna-on-how-b2b-growth-is-changing-product-led-growth-product-led-sales-why-you-should-go-freemium-not-trial-what-features-to-make-free-and-much-more/)
 *Understand when PLG works and when it doesn't.*
 
 ## Part 2: The Decision Matrix
@@ -44,8 +47,9 @@ ABM works when:
 - Deal sizes justify personalized effort ($50K+ ACV)
 - You can identify and reach multiple stakeholders
 
-### 📽️ Watch This (7 mins)
-[Terminus: ABM Explained in 7 Minutes](https://www.youtube.com/watch?v=SrqNiGnrXbM)
+### 📖 Read This (10 mins)
+[ABM Strategy Guide - Terminus](https://terminus.com/blog/)  
+*Account-based marketing fundamentals for high-value targets.*
 
 ## Part 4: The Founder-Led Sales Trap
 

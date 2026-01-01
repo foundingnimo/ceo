@@ -35,7 +35,9 @@ Cybersecurity isn't just a technical issue—it's a business risk that lands on 
 - **Most common entry point:** Phishing (still works, every time)
 
 ### 📺 Watch This (8 mins)
-[CISA: Cybersecurity for CEOs](https://www.youtube.com/watch?v=3O5D9P6FMaA)
+[CISA Cyber Essentials Chapter 1: Yourself, The Leader](https://www.youtube.com/watch?v=k7GkyoaO680)  
+[CISA Director Jen Easterly’s Keynote: Secure by Design](https://www.youtube.com/watch?v=Mn9gfEcJwgU)  
+[Shields Up: 5 Urgent Cybersecurity Actions for Executives](https://www.youtube.com/watch?v=ribWXaAGmGo)  
 *Government cybersecurity agency's guidance for business leaders.*
 
 ## Part 3: Security Posture Assessment
@@ -117,9 +119,35 @@ Security isn't just policies—it's culture. CEOs set the tone.
 | Thank people who find issues | Creates a security-aware culture |
 
 ### 📺 Watch This (10 mins)
-[Darknet Diaries: EP 100 - How Hackers Think](https://www.youtube.com/watch?v=h9b6xXJ_Hfc)
-*Understanding the attacker's perspective.*
+# YouTube Videos: How Hackers Think
 
+## Video 1: Why I teach people how to hack
+**Speaker:** Ýmir Vigfússon (TEDxReykjavik)  
+**Link:** https://www.youtube.com/watch?v=KwJyKmCbOws  
+**Duration:** ~18 minutes  
+**Views:** 1.8+ million
+
+**Key Points:**
+- Icelandic hacker and computer science professor argues that the best way to improve cybersecurity is to adopt the attacker's mindset
+- Shares journey from teenage hacker to respected security expert
+- Explains why thinking like a hacker helps build more secure systems
+- Hackers think about systems holistically, asking "how would I break in?"
+- Emphasizes that defending requires understanding offense
+
+---
+
+## Video 2: Why You Need to Think Like a Hacker
+**Speaker:** Ted Harrington (TEDxFrankfurt)  
+**Link:** Available on TED.com at https://www.ted.com/talks/ted_harrington_why_you_need_to_think_like_a_hacker  
+**Duration:** ~15 minutes
+
+**Key Points:**
+- Author of "Hackable" and leader of ethical hackers (clients include Google, Amazon, Netflix)
+- Focuses on hacker mindset as a competitive advantage
+- Views cybersecurity as opportunity, not just cost avoidance
+- Four key hacker traits: curiosity, creativity, persistence, and nonconformity
+- Explains how thinking like a hacker reveals new pathways to achieve goals
+- Great for understanding security at a leadership/business strategy level
 ## CEO Action Item: Schedule a Security Posture Review
 
 Take 15 minutes to set this up:

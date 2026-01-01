@@ -8,7 +8,7 @@ The most common mistake CEOs make is trying to be the "Chief Idea Officer." Your
 Innovation isn't a bolt of lightning; it's a process of elimination. As CEO, you must create "Psychological Safety"—the ability for your team to try an idea, prove it wrong, and move on without fear of punishment.
 
 ### 📺 Watch This (10 mins)
-[Clayton Christensen on Innovation](https://www.youtube.com/watch?v=H7_eyH9TscA)
+[Clayton Christensen on Innovation](https://www.youtube.com/watch?v=rpkoCZ4vBSI)
 *Focus on the difference between "Sustaining" innovation (making things better) and "Disruptive" innovation (making things different).*
 
 ## Part 2: Building the Culture

@@ -31,9 +31,9 @@ Stop treating Sales, Marketing, and Customer Success as separate silos. They are
 
 **Document every handoff.** What information must be passed? Who is responsible? What's the SLA?
 
-### 📺 Watch This (8 mins)
-[Winning by Design: The Bowtie Funnel](https://www.youtube.com/watch?v=1ZTQvPt3yzg)
-*Understand how modern GTM treats acquisition and retention as one connected system.*
+### 📖 Read This (12 mins)
+[Revenue Operations Guide - HubSpot](https://www.hubspot.com/revenue-operations)  
+*How modern GTM treats acquisition and retention as one connected system.*
 
 ## Part 3: The Marketing ↔ Sales SLA
 

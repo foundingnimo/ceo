@@ -8,7 +8,7 @@ Why did you buy that specific cup of coffee this morning? Was it because you wer
 Customers don't buy products; they "hire" them to help them make progress in a specific circumstance.
 
 ### 📺 Watch This (5 mins)
-[Clayton Christensen: The Milkshake Concept](https://www.youtube.com/watch?v=SfS-O0K7K60)
+[Clayton Christensen: The Milkshake Concept](https://www.youtube.com/watch?v=flKcN2x50rw)
 *Watch this classic explanation of why people "hired" a milkshake at 8:00 AM.*
 
 ## Part 2: Getting Out of the Building

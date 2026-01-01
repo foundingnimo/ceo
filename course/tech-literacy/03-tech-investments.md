@@ -33,8 +33,8 @@ Almost every technology decision involves this trade-off:
 - A vendor has solved this problem well
 - Maintaining it would distract from your core product
 
-### 📺 Watch This (10 mins)
-[Stripe: How to Think About Build vs. Buy](https://www.youtube.com/watch?v=_9Y7Wm8F62g)
+### 📖 Read This (15 mins)
+[Build vs Buy Framework - Thoughtworks](https://www.thoughtworks.com/)  
 *Focus on: The true cost of building and maintaining software.*
 
 ## Part 2: Evaluating Vendor Proposals

@@ -40,9 +40,9 @@ Jeff Bezos famously distinguishes between two types of decisions:
 
 **The mistake:** Treating two-way doors as one-way doors, leading to analysis paralysis on reversible decisions.
 
-### 📺 Watch This (5 mins)
-[Jeff Bezos on Decision-Making](https://www.youtube.com/watch?v=H8l3-oi4EXU)
-*Focus on: The 70% rule—decide when you have 70% of the information.*
+### 📖 Read This (5 mins)
+[Jeff Bezos on Decision Making - Farnam Street](https://fs.blog/jeff-bezos-decision-making/)  
+*Decide when you have 70% of the information you wish you had.*
 
 ## Part 3: A Decision-Making Framework
 

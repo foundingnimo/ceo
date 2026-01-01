@@ -10,7 +10,7 @@ Recruiting is a sales process, but with a "product" (the job) that can say no. A
 
 ## Curated Resources
 - **[Read] [The CEO's Guide to Recruiting](https://firstround.com/review/the-founders-guide-to-recruiting/)** (20 mins) - How to build a recruiting engine.
-- **[Watch] [Interviewing for Values (Episode 36)](https://www.youtube.com/watch?v=6vDXY80jPGU)** (8 mins) - How to integrate values into questions without "leading the witness."
+- **[Read] [Structured Interviewing Best Practices - Google re:Work](https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/)** (10 mins) - How to remove bias and improve hiring decisions.
 - **[Deep Dive] [Who: The A Method for Hiring](https://www.amazon.com/Who-Method-Hiring-Geoff-Smart/dp/0345504194)** (Book Summary) (15 mins).
 
 ## CEO Action Item

@@ -22,8 +22,8 @@ CEOs face a unique stress profile:
 
 CEOs are expected to project confidence while carrying enormous uncertainty. This gap creates chronic stress that's hard to acknowledge.
 
-### 📺 Watch This (10 mins)
-[Jerry Colonna: The CEO's Inner Journey](https://www.youtube.com/watch?v=e0RIXryqmWI)
+### 🎧 Listen/Read (10 mins)
+[Reboot Podcast - Jerry Colonna](https://www.reboot.io/podcast/)  
 *A coach who works with CEOs on the emotional side of leadership.*
 
 ## Part 2: Physical Foundations

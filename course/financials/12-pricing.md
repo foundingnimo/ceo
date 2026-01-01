@@ -18,8 +18,9 @@ Costs: $900,000
 Profit: $110,000 → 10% profit improvement!
 ```
 
-### 📺 Watch This (22 mins)
-[Pricing Strategy for SaaS](https://www.youtube.com/watch?v=XwFuCStj9AI)
+### 📖 Read This (20 mins)
+[SaaS Pricing Strategy - Profitwell](https://www.profitwell.com/recur/all/saas-pricing-strategy)  
+*Comprehensive guide to pricing models and willingness-to-pay.*
 
 ## Part 2: Pricing Models
 

@@ -13,8 +13,9 @@ Every decision has financial implications. Always ask:
 4. What are the alternatives?
 5. What is the opportunity cost?
 
-### 📺 Watch This (30 mins)
-[Strategic Finance for CEOs](https://www.youtube.com/watch?v=RsNQ-2Dx4cA)
+### 📖 Read This (15 mins)
+[Finance for Non-Financial Managers - Coursera](https://www.coursera.org/learn/finance-for-non-finance)  
+*How CEOs and CFOs align to make strategic financial decisions.*
 
 ## Part 2: Investment Decision Framework
 
