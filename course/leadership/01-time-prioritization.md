@@ -25,7 +25,7 @@ President Eisenhower famously distinguished between urgent and important. Most C
 | Quadrant 2 neglect | Never time for strategy or relationships | Protect this time first, not last |
 
 ### 📺 Watch This (8 mins)
-[Tim Ferriss: The Art of Letting Bad Things Happen](https://www.youtube.com/watch?v=Pxr_FzpPM2Q)
+[Tim Ferriss: The Art of Letting Bad Things Happen](https://www.youtube.com/watch?v=iPE2_iCCo0w)
 *Focus on: Why optimization sometimes means letting things drop.*
 
 ## Part 2: Time Blocking
