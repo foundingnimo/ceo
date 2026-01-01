@@ -18,16 +18,16 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 
 **Time Investment:** ~4 hours total | ~1 hour/week
 
-| Day | Course | Episode | Time |
-| :--- | :--- | :--- | :--- |
-| Week 1 | Leadership | [01 - Time & Prioritization](./leadership/01-time-prioritization.md) | 25 min |
-| Week 1 | Strategy | [01 - Vision & Mission](./strategy/01-vision-mission.md) | 20 min |
-| Week 2 | Financials | [01 - Foundations](./financials/01-foundations.md) | 15 min |
-| Week 2 | Financials | [03 - Revenue vs Cash](./financials/03-revenue-vs-cash.md) | 20 min |
-| Week 3 | Culture | [01 - Values & Vision](./culture/01-values-vision.md) | 25 min |
-| Week 3 | HR & Talent | [01 - Why HR Matters](./hr-talent/01-why-hr-matters.md) | 20 min |
-| Week 4 | Tech Literacy | [01 - Tech Landscape](./tech-literacy/01-tech-landscape.md) | 30 min |
-| Week 4 | Leadership | [03 - Emotional Intelligence](./leadership/03-emotional-intelligence.md) | 25 min |
+| Day | Course | Episode | Time | Check |
+| :--- | :--- | :--- | :--- | :--- |
+| Week 1 | Leadership | [01 - Time & Prioritization](./leadership/01-time-prioritization.md) | 25 min | - [x] |
+| Week 1 | Strategy | [01 - Vision & Mission](./strategy/01-vision-mission.md) | 20 min | - [ ] |
+| Week 2 | Financials | [01 - Foundations](./financials/01-foundations.md) | 15 min | - [ ] |
+| Week 2 | Financials | [03 - Revenue vs Cash](./financials/03-revenue-vs-cash.md) | 20 min | - [ ] |
+| Week 3 | Culture | [01 - Values & Vision](./culture/01-values-vision.md) | 25 min | - [ ] |
+| Week 3 | HR & Talent | [01 - Why HR Matters](./hr-talent/01-why-hr-matters.md) | 20 min | - [ ] |
+| Week 4 | Tech Literacy | [01 - Tech Landscape](./tech-literacy/01-tech-landscape.md) | 30 min | 
+| Week 4 | Leadership | [03 - Emotional Intelligence](./leadership/03-emotional-intelligence.md) | 25 min | - [ ] |
 
 **After Wave 1, you should be able to:**
 - Articulate your company's vision and mission clearly
