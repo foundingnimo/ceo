@@ -33,4 +33,13 @@ Take 10 minutes and answer these three questions for your company:
 3. In 10 years, what does the "victory" version of this company look like? (The Vision)
 
 ---
+
+MISSION (Why we exist)
+"We exist to break healthcare's interoperability crisis so that innovative software can actually reach patients and clinicians - instead of being trapped behind integration hell that wastes billions and fragments care."
+
+VISION (Where we're going in 10 years)
+"In 10 years, healthcare interoperability is invisible. Clinics switch tools like apps. Patients never re-enter data. Clinicians focus on care, not copy-pasting. Integration is taken for granted, like electricity.
+
+
+---
 **[Next Episode: Taking Stock (SWOT Analysis) →](02-swot.md)**
