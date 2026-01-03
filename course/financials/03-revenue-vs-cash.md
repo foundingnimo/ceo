@@ -28,7 +28,7 @@ You sell a $100,000 annual software contract in January:
 Most companies use accrual accounting. This means your Income Statement shows profit, but your bank account might tell a different story.
 
 ### 📺 Watch This (12 mins)
-[Accrual vs Cash Accounting - AccountingStuff](https://www.youtube.com/watch?v=kINTtyXPGwM)  
+[Accrual vs Cash Accounting](https://www.youtube.com/watch?v=GEZZftO_VrE)  
 *Clear explanation of why profitable companies can still run out of cash.*
 
 ## Part 3: Why Profitable Companies Fail
