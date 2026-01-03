@@ -22,7 +22,7 @@ This learning plan is designed for **parallel learning** across domains. CEOs fa
 | :--- | :--- | :--- | :--- | :--- |
 | Week 1 | Leadership | [01 - Time & Prioritization](./leadership/01-time-prioritization.md) | 25 min | :heavy_check_mark: |
 | Week 1 | Strategy | [01 - Vision & Mission](./strategy/01-vision-mission.md) | 20 min | :heavy_check_mark: |
-| Week 2 | Financials | [01 - Foundations](./financials/01-foundations.md) | 15 min | - [ ] |
+| Week 2 | Financials | [01 - Foundations](./financials/01-foundations.md) | 15 min | ✔️ |
 | Week 2 | Financials | [03 - Revenue vs Cash](./financials/03-revenue-vs-cash.md) | 20 min | - [ ] |
 | Week 3 | Culture | [01 - Values & Vision](./culture/01-values-vision.md) | 25 min | - [ ] |
 | Week 3 | HR & Talent | [01 - Why HR Matters](./hr-talent/01-why-hr-matters.md) | 20 min | - [ ] |
