@@ -13,7 +13,7 @@ As a CEO, you need financial literacy because:
 - **Strategic decisions** require financial understanding
 
 ### 📺 Watch This (10 mins)
-[How Managers Should Read Financial Statements - HBR](https://hbr.org/video/2235506882001/how-managers-should-read-financial-statements)  
+[How Managers Should Read Financial Statements - HBR](https://www.youtube.com/watch?v=aJsmJsd6GIw)  
 *Foundational concepts every CEO needs to understand.*
 
 ## Part 2: The Language of Finance
